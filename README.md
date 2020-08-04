@@ -1,7 +1,6 @@
 ### Hi 👋, I am Suritra
 
-
-**SuRiTrA/SuRiTrA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Suritra](https://twitter.com/suritra2904/photo)
 
 
 - 🔭 I’m currently working on [BioHack Virtual Internship](https://github.com/Team-Rosalind/team-rosalind-project)
