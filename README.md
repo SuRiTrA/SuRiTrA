@@ -1,6 +1,6 @@
 ### Hi 👋, I am Suritra
 
-![Suritra](https://twitter.com/suritra2904/photo)
+![Suritra](Suri.jpg)
 
 
 - 🔭 I’m currently working on [BioHack Virtual Internship](https://github.com/Team-Rosalind/team-rosalind-project)
