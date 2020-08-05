@@ -1,6 +1,8 @@
 
 ## Hi 👋, I am Suritra
 
+<img src="https://komarev.com/ghpvc/?username=SuRiTrA" alt="SuRiTrA"/>
+
 I am an undergraduate researcher, specialising in Bioinorganic chemistry, primarily interested in drug discovery and development. Currently, I am working on exploring biomedical applications of expanded and core modified porphyrins. 
 
 
