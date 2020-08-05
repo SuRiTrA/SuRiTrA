@@ -5,7 +5,7 @@ I am an undergraduate researcher, specialising in Bioinorganic chemistry, primar
 
 
 - 🔭 I’m currently working on [BioHack Virtual Internship](https://github.com/Team-Rosalind/team-rosalind-project)
-- 🌱 I’m open to learning **anyhting that happens under the Sun and interests me** 
+- 🌱 I’m open to learning **anything that happens under the Sun and interests me** 
 - 💬 Send me images of **FOOD**
 - 📫 How to reach me: Mail me at [suritra.bandyopadhyay@niser.ac.in](suritra.bandyopadhyay@niser.ac.in)
 - 😄 Pronouns: He/Him/His
